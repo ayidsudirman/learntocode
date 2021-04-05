@@ -1,4 +1,4 @@
-###This repository belongs to my html-css study with progate.
+### This repository belongs to my html-css study with progate.
 
 What i've learned from this study:
 - Creating Github account
