@@ -1,16 +1,15 @@
-### Hi there 👋
+###This repository belongs to my html-css study with progate.
 
-<!--
-**ayidsudirman/ayidsudirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What i've learned from this study:
+- Creating Github account
+- Creating new repository
+- Uploading file
+- Publishing our web page
+- Update our existing page
 
-Here are some ideas to get you started:
+Resource: [Click here to check the resources](https://progate.com/docs/github-pages)
+Live demo: [Click here to see my submission](https://ayidsudirman.github.io/learntocode/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
